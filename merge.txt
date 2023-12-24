@@ -1,2 +1,2 @@
 this is merge file.
-this is from develop branch.
+this is from main branch.
